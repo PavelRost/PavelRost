@@ -11,8 +11,8 @@ ___
 5. Project [Dream job](https://github.com/PavelRost/job4j_dreamjob). Created on the basis of MVC, Hibernate, Servlet, JSP, Tomcat.
 6. Project [Pooh JMS](https://github.com/PavelRost/job4j_pooh). Created on the Socker, client cURL, Publish–subscribe pattern, HTTP. 
 7. Project [To-Do list](https://github.com/PavelRost/job4j_todo). Created on the basis of MVC, Hibernate, Servlet, JSP, Tomcat.
-8. Project [Grabber](https://github.com/PavelRost/job4j_grabber). Site parsing www.sql.ru/forum/job-offers
-9. Project [Tracker](https://github.com/PavelRost/job4j_tracker). Console application for working with applications
+8. Project [Grabber](https://github.com/PavelRost/job4j_grabber). Site parsing www.sql.ru/forum/job-offers.
+9. Project [Tracker](https://github.com/PavelRost/job4j_tracker). Console application for working with applications.
 ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelRost&layout=compact)](https://github.com/PavelRost/github-readme-stats)
