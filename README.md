@@ -4,7 +4,7 @@
 ___
 #### 🏆  My projects:
 
-1. Project Passport. It consists of a [service](https://github.com/PavelRost/job4j_passport_service) and a [client](https://github.com/PavelRost/job4j_passport_client).
+1. Project Passport. It consists of a [service](https://github.com/PavelRost/job4j_passport_service) and a [client](https://github.com/PavelRost/job4j_passport_client). Created on the basis of Spring Boot, Spring Data JPA, MVC, REST API, RestTemplate.
 2. Project [Weather](https://github.com/PavelRost/job4j_weather_reactive) with Spring boot webflux.
 3. Project [Forum](https://github.com/PavelRost/job4j_forum). Created on the basis of Spring Boot, Spring Data JPA, MVC.
 4. Project [Car accident](https://github.com/PavelRost/job4j_car_accident). Created on the basis of Spring, Spring Data JPA, MVC, Hibernate.
