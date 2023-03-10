@@ -1,8 +1,13 @@
-### Hi there 👋 
-#### My name is Pavel.
-#### I have been programming in Java since last year 😎
+### Всем привет 👋 
+#### Меня зовут Павел.
+#### Я начал изучать backend разработку с помощзью Java c 2021 года и сделал ряд проектов, охватывающие основные технологии 😎 
+#### В 2022 году пересел на Kotlin, а в феврале 2023 года решил начать создавать свою игру, своего рода экономический симулятор. Совсем недавно перенес проект в Android Studio и теперь хочу сделать свою игру именно под android платформу.
 ___
-#### 🏆  My projects:
+#### 🏆  Мои Kotlin - проекты:
+
+1. Игра [IBuilder](https://github.com/PavelRost/IBuilder) - экономический симулятор в духе текстовых квестов.
+___
+#### 🏆  Мои Java - проекты:
 
 1. Project [Assistant_job_responses](https://github.com/PavelRost/assistant_job_responses). Created on the basis of Spring Boot, Spring Data JPA, MVC, REST API, Postgresql.
 2. Project Passport. It consists of a [service](https://github.com/PavelRost/job4j_passport_service) and a [client](https://github.com/PavelRost/job4j_passport_client). Created on the basis of Spring Boot, Spring Data JPA, MVC, REST API, RestTemplate.
