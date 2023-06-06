@@ -6,7 +6,7 @@ ___
 ___
 #### 🏆  Мои Java - проекты:
 
----> 🔥 **Last project:** [Assistant_job_responses](https://github.com/PavelRost/assistant_job_responses). Created on the basis of Spring Boot, Spring Data JPA, MVC, REST API, Postgresql. 🔥
+🔥 **Last project:** [Assistant_job_responses](https://github.com/PavelRost/assistant_job_responses). Created on the basis of Spring Boot, Spring Data JPA, MVC, REST API, Postgresql. 🔥
 
 1. Project Passport. It consists of a [service](https://github.com/PavelRost/job4j_passport_service) and a [client](https://github.com/PavelRost/job4j_passport_client). Created on the basis of Spring Boot, Spring Data JPA, MVC, REST API, RestTemplate.
 2. Project [Weather](https://github.com/PavelRost/job4j_weather_reactive) with Spring boot webflux.
