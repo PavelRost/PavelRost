@@ -2,7 +2,7 @@
 ___
 #### 🏆  Мои Kotlin - проекты:
 
-1. 🔥 [IBuilder](https://github.com/PavelRost/IBuilder) - экономический симулятор. 🔥
+🔥 [IBuilder](https://github.com/PavelRost/IBuilder) - экономический симулятор. 🔥
 ___
 #### 🏆  Мои Java - проекты:
 
